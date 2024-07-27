@@ -1,0 +1,6 @@
+#ifndef _RAIDEN_H_INCLUDED_
+#define _RAIDEN_H_INCLUDED_
+
+#define RAIDEN_VERSION
+
+#endif /* _RAIDEN_H_INCLUDED_ */
